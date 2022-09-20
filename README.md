@@ -14,6 +14,7 @@ Here's some information about me ✨
 
 ```C#
 public void Work(bool notSleep){
-  if(notSleep) Console.WriteLine("go to work");
+  if(notSleep) doWork == 1;
+  Console.WriteLine("go to work");
 }
 ```
