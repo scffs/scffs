@@ -1,5 +1,5 @@
-### Alright you lot! 
-### Here's some information about me
+> ### Alright you lot
+Here's some information about me ✨
 
 ## My stuff
 ![Python](https://img.shields.io/badge/-Python-2d333b?style=for-the-badge&logo=python)
@@ -11,3 +11,9 @@
 ## Socials
 [![Telegram](https://img.shields.io/badge/-Telegram-2d333b?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/scffs)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-2d333b?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/scoffs)
+
+```C#
+public void Work(bool notSleep){
+  if(notSleep) Console.WriteLine("go to work");
+}
+```
