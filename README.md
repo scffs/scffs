@@ -13,7 +13,11 @@ Here's some information about me ✨
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-2d333b?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/scoffs)
 
 ```C#
-private bool doWork = false;
-
-public void Work(bool notSleep){ if(notSleep) doWork == true; }
+  public static bool doWork = false;
+  public static bool Work(bool notSleep)
+    {
+      if (notSleep) return doWork = true; 
+      else return false; 
+    }
+        
 ```
