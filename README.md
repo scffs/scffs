@@ -16,6 +16,6 @@ Here's some information about me ✨
 public static bool doWork = false;
 public static bool Work(bool notSleep){
   if (notSleep) return doWork = true; 
-  else return false; 
+  else return doWork = false; 
 }     
 ```
