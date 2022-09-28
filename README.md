@@ -9,7 +9,7 @@ Here's some information about me ✨
 ![PHP](https://img.shields.io/badge/-PHP-2d333b?style=for-the-badge&logo=PHP)
 ![PHPMYADMIN](https://img.shields.io/badge/-PHPMYADMIN-2d333b?style=for-the-badge&logo=PHPMyAdmin)
 ## Socials
-[![Telegram](https://img.shields.io/badge/-Telegram-2d333b?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/scffs)
+[![Telegram](https://img.shields.io/badge/-Telegram-2d333b?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sc0ffs)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-2d333b?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/scoffs)
 
 ```C#
