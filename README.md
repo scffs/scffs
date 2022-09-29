@@ -1,5 +1,5 @@
-> ### Alright you lot
-`Here's some information about me ✨`
+ ### Alright you lot
+> ### Here's some information about me ✨
 
 ## My stuff
 ![Python](https://img.shields.io/badge/-Python-2d333b?style=for-the-badge&logo=python)
