@@ -17,7 +17,7 @@
 
 ```C#
 protected bool doWork = false;
-protected bool Work(bool notSleep){
+private bool Work(bool notSleep){
   if (notSleep) return doWork = true; 
   return doWork; 
 }     
