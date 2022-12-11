@@ -13,7 +13,7 @@
 ![LESS](https://img.shields.io/badge/-LESS-2d333b?style=for-the-badge&logo=LESS)
 ## Socials
 [![Telegram](https://img.shields.io/badge/-Telegram-2d333b?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sc0ffs)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-2d333b?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/scoffs)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-2d333b?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/scffs)
 <!-- ![PHP](https://img.shields.io/badge/-PHP-2d333b?style=for-the-badge&logo=PHP) -->
 
 ```C#
