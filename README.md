@@ -17,7 +17,7 @@
 <!-- ![PHP](https://img.shields.io/badge/-PHP-2d333b?style=for-the-badge&logo=PHP) -->
 
 ```C#
-private bool Work(bool sleep){
+private bool isWork(bool sleep){
   if (!sleep) return true; 
   return false; 
 }
