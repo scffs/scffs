@@ -17,9 +17,8 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-2d333b?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/scoffs)
 
 ```C#
-protected bool doWork = false;
 private bool Work(bool notSleep){
-  if (notSleep) return doWork = true; 
+  if (!notSleep) return doWork = false; 
   return doWork; 
 }     
 ```
