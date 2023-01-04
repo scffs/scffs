@@ -16,7 +16,7 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-2d333b?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/scffs)
 <!-- ![PHP](https://img.shields.io/badge/-PHP-2d333b?style=for-the-badge&logo=PHP) -->
 
-```React
+```JS
 const [isWork, setIsWork] = React.useState(true)
 const [isSleep, setIsSleep] = React.useState(false)
 
