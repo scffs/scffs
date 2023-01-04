@@ -16,9 +16,10 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-2d333b?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/scffs)
 <!-- ![PHP](https://img.shields.io/badge/-PHP-2d333b?style=for-the-badge&logo=PHP) -->
 
-```C#
-private bool isWork(bool sleep){
-  if (!sleep) return true; 
-  return false; 
-}
+```React
+const [isWork, setIsWork] = React.useState(true)
+const [isSleep, setIsSleep] = React.useState(false)
+
+{ isSleep ? setIsWork(false) : setIsWork(true) }
+{ isWork ? setIsSleep(false) : setIsSleep(false) }
 ```
