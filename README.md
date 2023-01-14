@@ -1,25 +1,30 @@
- ### Alright you lot
-> ### Here's some information about me ✨
+<h1 align="center">Hi 👋, I'm Semyon</h1>
+<h3 align="center">Here's some information about me</h3>
 
-## My stuff
-![REACT](https://img.shields.io/badge/-REACT-2d333b?style=for-the-badge&logo=React)
-<img src="https://img.shields.io/badge/HTML-2d333b?style=for-the-badge&logo=html5"/>
-![CSS](https://img.shields.io/badge/-CSS-2d333b?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-2d333b?style=for-the-badge&logo=JavaScript)
-![PHPMYADMIN](https://img.shields.io/badge/-PHPMYADMIN-2d333b?style=for-the-badge&logo=PHPMyAdmin)
-![SASS](https://img.shields.io/badge/-SASS-2d333b?style=for-the-badge&logo=Sass)
-![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-2d333b?style=for-the-badge&logo=BOOTSTRAP)
-![LESS](https://img.shields.io/badge/-LESS-2d333b?style=for-the-badge&logo=LESS)
-![Python](https://img.shields.io/badge/-Python-2d333b?style=for-the-badge&logo=python)
-## Socials
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=scffs&label=Profile%20views&color=0e75b6&style=flat" alt="scffs" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scffs" alt="scffs" /></a> </p>
+
+- 🔭 I’m currently working on [my potrfolio web site](https://github.com/scffs/portfolio)
+
+- 🌱 I’m currently learning **React (also JS)**
+
+- 💬 Ask me about **anything you want**
+
+- 📫 Want to talk with me? Hit me up in my socials below or **khidey@inbox.ru**
+### Socials
 [![Telegram](https://img.shields.io/badge/-Telegram-2d333b?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sc0ffs)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-2d333b?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/scffs)
-<!-- ![PHP](https://img.shields.io/badge/-PHP-2d333b?style=for-the-badge&logo=PHP) -->
 
-```JS
-const [isWork, setIsWork] = React.useState(true)
-const [isSleep, setIsSleep] = React.useState(false)
+<h3 align="left">Sometimes you can see me here:</h3>
+<p align="left">
+<a href="https://dev.to/scffs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="scffs" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/scoffs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="scoffs" height="30" width="40" /></a>
+<a href="https://hashnode.com/@scffs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@scffs" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/scffs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="scffs" height="30" width="40" /></a>
+</p>
 
-{ isSleep ? setIsWork(false) : setIsWork(true) }
-{ isWork ? setIsSleep(false) : setIsSleep(false) }
-```
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scffs&" alt="scffs" /></p>
