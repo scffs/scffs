@@ -47,4 +47,4 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
 </p>
-<a href="https://app.daily.dev/scffs"><img src="https://api.daily.dev/devcards/364b92c303ea412b9161b89e0358ab60.png?r=p5m" width="400" alt="Semyon Okulov's Dev Card"/></a>
+<a href="https://app.daily.dev/scffs"><img src="https://api.daily.dev/devcards/364b92c303ea412b9161b89e0358ab60.png?r=68v" width="400" alt="Semyon Okulov's Dev Card"/></a>
