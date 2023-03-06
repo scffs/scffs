@@ -14,14 +14,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2d333b?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/sc0ffs)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-2d333b?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/scffs)
 
-<h3 align="left">Sometimes you can see me here:</h3>
-<p align="left">
-<a href="https://dev.to/scffs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="scffs" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/scoffs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="scoffs" height="30" width="40" /></a>
-<a href="https://hashnode.com/@scffs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@scffs" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/scffs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="scffs" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
