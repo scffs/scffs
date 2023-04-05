@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Semyon</h1>
 <h3 align="center">Here's some information about me</h3>
+<h3>I'm currently working in a team on a large project on react/ts/redux on GitLab, so there will be no activity here yete</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scffs&label=Profile%20views&color=0e75b6&style=flat" alt="scffs" /> </p>
 
