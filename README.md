@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Semyon</h1>
-<h3 align="center">Here's some information about me</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scffs&label=Profile%20views&color=0e75b6&style=flat" alt="scffs" /> </p>
 
 - 📫 Want to talk with me? Hit me up in my socials below or **khidey@inbox.ru**
