@@ -6,16 +6,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack | Status |
-|--------|-------------|-------|--------|
-| **wllta/core** | Wallet Analyzer for **TON** blockchain | TypeScript • Bun • Drizzle • Bun  • mtcute • Docker | Active |
-| **review-bot** | Telegram‑based review bot for connecting GitLab & Weeek together | TypeScript • Drizzle • Bun  • mtcute • Docker | Archived        |
-| **Diary‑SPO/core** | VK mini-app and web interface for the electronic diary of students in the Tomsk region | React • VKUI • Elysia • Bun | Archived                |
-
----
-
 ### 🧠 Tech Stack & Tools
 
 - **Languages**: 
