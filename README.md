@@ -10,7 +10,7 @@
 
 - **Languages**: 
 
-[![My frontend Skills](https://skillicons.dev/icons?i=ts,js,py,php,cs,rust&theme=dark)](https://skillicons.dev)
+[![My frontend Skills](https://skillicons.dev/icons?i=ts,js,py,php,cs&theme=dark)](https://skillicons.dev)
 
 - **Frontend**: 
 
